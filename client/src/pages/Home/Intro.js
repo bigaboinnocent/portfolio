@@ -17,7 +17,7 @@ function Intro() {
       <p className="text-white w-2/3">{description || ""}</p>
       <button
          className="border-2 border-tertiary text-tertiary px-10 py-3 rounded"
-             onClick={() => window.open('https://www.linkedin.com/in/your-linkedin-profile', '_blank')}
+             onClick={() => window.open('https://www.linkedin.com/in/KayitareAudax', '_blank')}
       >
          Download CV
       </button>
