@@ -9,11 +9,11 @@ function LeftSider() {
             {" "}
             <i class="ri-facebook-circle-line text-gray-400"></i>
           </a>
-          <a href="mailto:kayitareaudax@gmail.com "><i class="ri-mail-line text-gray-400 "></i></a>
+          <a href="mailto:bigaboinnocent@gmail.com "><i class="ri-mail-line text-gray-400 "></i></a>
           
-          <i class="ri-instagram-line text-gray-400 "></i>
-          <i class="ri-linkedin-box-line text-gray-400 "></i>
-          <i class="ri-github-line text-gray-400 "></i>
+          <a href="www.instagram.com/b.i.g.a.b.o"><i class="ri-instagram-line text-gray-400 "></i></a>
+          <a href="https://rw.linkedin.com/in/bigabo-innocent-b0390231a"><i class="ri-linkedin-box-line text-gray-400 "></i></a>
+          <a href="www.github.com/bigaboinnocent"><i class="ri-github-line text-gray-400 "></i></a>
         </div>
         <div className="w-[1px] h-32 bg-[#125f63] sm:hidden"></div>
       </div>
